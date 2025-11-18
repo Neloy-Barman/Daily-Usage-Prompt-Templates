@@ -4,7 +4,7 @@
 I want to sell bags in a ecommerce business website. I have the products in my hand. Now I want to write attractive product sell post covering lucrative product description to make traction with the visitors. The country is `Bangladesh`. So, people from here will interact with the sell post. I want the post to be designed in such way that it should consider and cover all the points that a `Bangladeshi` person will look for while he/she intends to buy a bag. I want you to act as a `Product Content Specialist` for my running business who analyzes all the valuable points and provide me with `Professional` sell post for the product data provided.      
 
 ## PRODUCT DATA
-```
+```md
 <product_data>
 ```
 
