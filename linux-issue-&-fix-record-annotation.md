@@ -149,3 +149,6 @@ The message confirms that the service is managed by `systemctl` and has started 
     <generated_markdown_content>
 ````
 ``````
+
+# Expected Response from LLMs & Platforms
+- **LLM**: `gpt-5-chat`<BR>**Platform**: `https://lmarena.ai/`
