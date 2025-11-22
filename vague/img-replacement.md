@@ -1,0 +1,11 @@
+``````md
+I have a reference image, which has been selected analyzing the overall composition. Now I also have an image of object. I want to replace the object of the reference image with my object in the image. While placing the object, it should perform the necessary changes for the replacing image to match with the composition in the reference image. This will be the only change. Other than that, I want to keep each and every pixel of the reference image same as it is. I don't want any modification rather than the replacement between 2 objects within the image. The color tone, the camera angle, the background objects and etc. others should not be changed. Remember, it is possible that I may provide multiple images of the object. Now I want you to prepare a system prompt for an image generation model based on the criteria I have given. The generative model should follow the instruction as a MUST and STRICTLY. Break down the prompt into logical sections that helps the model to understand the whole context, task and rules clearly and thoroughly. The writing tone should be Professional and User-Friendly. The sentences within the prompt should be To The Point. The prompt should be generalized and should work for one or multiple images. Return the formatted prompt response within 4 bacticks(<generated_prompt>).
+
+
+I have provided you with two images named `reference_image` and `object_image`. Now replace the `<object_in_ref>` in the `reference_image` with the `<object_in_obj>` in `object_image`. Perform required changes to blend the new object within the `reference_image`. Other than that, keep color tone, camera angle, background objects as well as overall composition of the reference image same as it is. 
+
+
+
+You are provided with two images, `reference_image` and `object_image`. Your task is to replace the `<object_in_ref>` in the `reference_image` with the `<object_in_obj>` from the object_image. Integrate the new object seamlessly by adjusting its perspective, scale, and lighting to match the `reference_image`. Strictly preserve the existing background, color grading, camera angle, and overall composition.
+
+``````
